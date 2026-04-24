@@ -120,9 +120,10 @@ This project demonstrates a **modular deep learning pipeline** for recommendatio
 
 ---
 
-## Author
+## 👤 Author
 
-github.com/gopal092003
+**Gopal Gupta**
+GitHub: https://github.com/gopal092003
 
 ---
 
