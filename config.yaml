@@ -1,0 +1,17 @@
+id: cfg01
+data:
+  path: data/ratings.csv
+  min_movie_ratings: 5
+  test_split: 0.2
+
+model:
+  embedding_size: 32
+
+training:
+  epochs: 20
+  batch_size: 256
+  patience: 3
+
+paths:
+  model_dir: models/
+  output_dir: outputs/
