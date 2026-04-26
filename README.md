@@ -61,7 +61,7 @@ Movie-Recommendation-NCF/
 ## ⚙️ Installation
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/gopal092003/Movie-Recommendation-NCF.git
 cd Movie-Recommendation-NCF
 pip install -r requirements.txt
 ```
